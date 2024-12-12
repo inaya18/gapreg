@@ -1,0 +1,13 @@
+/* ----------------------------------------------------------------
+	Custom CSS
+
+	Add all your Custom Styled CSS here for New Styles or
+	Overwriting Default Theme Styles for Better Handling Updates
+-----------------------------------------------------------------*/
+
+.op-gradient-icon {
+	background: rgb(131,58,180);
+	background: linear-gradient(to right, #87CEEB , #FFC0CB);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+}
